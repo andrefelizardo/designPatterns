@@ -1,0 +1,2 @@
+#ITCSS components
+Componentes de interface específicos. A maior parte do CSS de qualquer projeto será escrito aqui. Os componentes de interface normalmente são construídos a partir das camadas de objetos e componentes do ITCSS.
